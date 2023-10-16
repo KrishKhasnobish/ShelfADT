@@ -5,8 +5,6 @@
 #include "shelf.h"
 #include "cs136-trace.h"
 
-// === THERE IS NO NEED TO MODIFY THE MAIN FUNCTION ===========================
-
 // The program accepts the following commands:
 // * PUSH <id:char> <volume:int> <weight:int>
 //   Adds a box to the top of the shelf with a given id (does not have to be
